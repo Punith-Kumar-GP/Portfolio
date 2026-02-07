@@ -488,6 +488,11 @@ html {
   gap: 6px;
 }
 
+.contact-links .btn {
+  margin-top: 10px;
+  align-self: flex-start;
+}
+
 .skill {
   border: 1px solid var(--line);
   border-radius: 16px;
