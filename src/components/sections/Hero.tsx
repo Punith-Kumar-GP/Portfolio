@@ -82,14 +82,14 @@ export function Hero() {
             <span>Custom CSS</span>
             <span>Motion</span>
             <span>WebGL</span>
-            <span>Design Systems</span>
-            <span>Accessibility</span>
+            <span>System Design</span>
+            <span>Java</span>
             <span>Next.js</span>
             <span>Custom CSS</span>
             <span>Motion</span>
             <span>WebGL</span>
-            <span>Design Systems</span>
-            <span>Accessibility</span>
+            <span>System Design</span>
+            <span>Java</span>
           </div>
         </div>
       </div>
