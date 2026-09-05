@@ -36,7 +36,7 @@ export function Hero() {
   return (
     <section className="hero" id="top">
       <div className="hero-intro">
-        <p className="eyebrow">Software Development Engineer</p>
+        <p className="eyebrow">Full Stack Software Development Engineer</p>
         <div className="hero-title-wrap" ref={titleWrapRef}>
           <h1 className="hero-title hero-title-tilt" ref={titleRef}>
             <span data-text="Punith">Punith</span>
@@ -44,9 +44,8 @@ export function Hero() {
           </h1>
         </div>
         <p className="hero-subtitle">
-          Full-stack engineer shipping fast, scalable web apps with React,
-          Next.js, Node.js, and RESTful APIs. I fuse performance, testing, and
-          clean architecture into dependable systems.
+          Full-stack engineer with 4+ years of experience building AI-integrated,
+          cloud-native systems with React, Next.js, Node.js, and AWS.
         </p>
         <div className="hero-cta">
           <a className="btn primary" href="#projects">
@@ -60,34 +59,34 @@ export function Hero() {
       <div className="hero-panel">
         <div className="stats">
           <div className="stat">
-            <h3>SDE-1</h3>
-            <p>Nineleaps</p>
+            <h3>4+ YRS</h3>
+            <p>Experience</p>
           </div>
           <div className="stat">
-            <h3>400+</h3>
+            <h3>480+</h3>
             <p>LeetCode</p>
           </div>
           <div className="stat">
-            <h3>10K+</h3>
-            <p>Records</p>
+            <h3>100K+</h3>
+            <p>Case Records</p>
           </div>
           <div className="stat">
-            <h3>5x</h3>
+            <h3>11×</h3>
             <p>Awards</p>
           </div>
         </div>
         <div className="marquee" aria-hidden="true">
           <div className="marquee-track">
             <span>Next.js</span>
-            <span>Custom CSS</span>
-            <span>Motion</span>
-            <span>WebGL</span>
+            <span>AWS</span>
+            <span>OpenAI</span>
+            <span>OpenSearch</span>
             <span>System Design</span>
             <span>Java</span>
             <span>Next.js</span>
-            <span>Custom CSS</span>
-            <span>Motion</span>
-            <span>WebGL</span>
+            <span>AWS</span>
+            <span>OpenAI</span>
+            <span>OpenSearch</span>
             <span>System Design</span>
             <span>Java</span>
           </div>

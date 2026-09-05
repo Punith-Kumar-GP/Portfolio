@@ -21,9 +21,8 @@ export function Contact() {
             </a>
             <a
               className="btn primary"
-              href="https://drive.google.com/uc?export=download&id=1bRPGSjvXUmrEQSaHqKHphkw452x3YCMY"
-              target="_blank"
-              rel="noreferrer"
+              href="/punith-resume.pdf"
+              download
             >
               Download Resume
             </a>

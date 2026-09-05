@@ -1,21 +1,21 @@
 export const projects = [
   {
-    title: "DMW (DataFlow)",
+    title: "AI Document Validation Platform",
     description:
-      "Data and document processing platform with scalable full-stack features, dashboards, and automated verification flows.",
-    stack: ["Next.js", "Node.js", "TypeScript", "AWS"],
+      "Built an OCR and OpenAI-powered platform that automates document verification and end-to-end approval workflows.",
+    stack: ["Next.js", "Node.js", "OpenAI", "OCR"],
   },
   {
-    title: "Auto Git Commit Messages",
+    title: "Rule Engine",
     description:
-      "Automated Git commit message generation using NLP, reducing manual effort by 80%.",
-    stack: ["Python", "Machine Learning"],
+      "Designed a database-driven engine with 100+ configurable rules, combining AI reasoning with deterministic business validation.",
+    stack: ["TypeScript", "Node.js", "OpenAI", "MongoDB"],
   },
   {
-    title: "Property Management System",
+    title: "Event-Driven Reporting",
     description:
-      "Built REST APIs with Node.js + Express and a MySQL backend, with a responsive UI in HTML, CSS, and JavaScript.",
-    stack: ["Node.js", "Express", "MySQL", "HTML/CSS"],
+      "Built AWS Lambda and OpenSearch pipelines for real-time dashboards and downloadable reports across 100K+ case records.",
+    stack: ["AWS Lambda", "OpenSearch", "DynamoDB", "ECS"],
   },
 ];
 
@@ -23,44 +23,54 @@ export const skills = [
   "JavaScript",
   "Java",
   "TypeScript",
-  "Python",
   "React",
   "Next.js",
-  "Redux",
+  "Redux Toolkit",
   "Node.js",
-  "Spring",
-  "Express",
+  "Express.js",
+  "Spring Boot",
   "REST APIs",
+  "Microservices",
+  "Domain-Driven Design",
   "Jest",
   "React Testing Library",
+  "Mocha",
+  "Docker",
   "MySQL",
   "MongoDB",
+  "PostgreSQL",
+  "DynamoDB",
+  "OpenSearch",
+  "Redis",
   "AWS",
   "Azure",
+  "CI/CD",
   "Git",
   "Postman",
 ];
 
 export const achievements = [
-  "400+ LeetCode problems solved",
-  "Feather on the Hat awards (5x)",
-  "PageSpeed +25 points, load times reduced by 50%",
+  "480+ data structures and algorithms problems solved on LeetCode",
+  "9× Feather on the Hat Awards for engineering excellence and impact",
+  "2 Spot Awards",
+  "80% API latency reduction (15s → 3s)",
+  "75% faster report generation (40s → 10s)",
 ];
 
 export const experience = [
   {
-    role: "Software Development Engineer 1",
-    company: "Nineleaps",
+    role: "Software Development Engineer",
+    company: "Nineleaps Technologies",
     time: "Apr 2025 - Present",
     detail:
-      "Building scalable full-stack features for DataFlow (DMW) using React, Next.js, and Node.js with performance-focused backend optimizations.",
+      "Architecting AI-integrated document validation and event-driven reporting systems with React, Next.js, Node.js, AWS, and OpenSearch. Reduced API latency by 80%, report generation time by 75%, and frontend bundle size by 30%.",
   },
   {
-    role: "Associate System Engineer",
+    role: "Application Developer",
     company: "IBM",
-    time: "Jan 2024 - Apr 2025",
+    time: "Feb 2023 - Apr 2025",
     detail:
-      "Developed and optimized React + Redux interfaces, improved performance, and increased test coverage with Jest and RTL.",
+      "Delivered enterprise React applications with TypeScript, Redux, and REST APIs; reduced technical debt by nearly 40%, expanded automated coverage, and mentored five interns through a production release.",
   },
 ];
 
